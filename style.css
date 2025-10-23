@@ -1,0 +1,64 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #f9f9f9;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+#banner {
+  background: #111;
+  color: #f0f0f0;
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+textarea {
+  flex: 1;
+  width: 100%;
+  border: none;
+  padding: 24px;
+  font-size: 18px;
+  line-height: 1.6;
+  resize: none;
+  box-sizing: border-box;
+  outline: none;
+  background: #ffffff;
+  color: #333;
+  font-family: Consolas, monospace;
+}
+
+#startBtn {
+  margin: 12px auto;
+  display: block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background: #222;
+  color: white;
+  border-radius: 4px;
+}
+
+textarea {
+  flex: 1;
+  width: 100%;
+  border: none;
+  padding: 24px;
+  font-size: 18px;
+  line-height: 1.6;
+  resize: none;
+  box-sizing: border-box;
+  outline: none;
+  background: #ffffff;
+  color: #333;
+  font-family: Consolas, monospace;
+  display: block; /* ← Make sure it's visible */
+}
+
+
