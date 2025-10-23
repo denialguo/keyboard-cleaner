@@ -1,0 +1,1 @@
+Ever wanted to clean your computer but don't feel like turning it off? This extension opens a safe typing tab and disables (almost) all keyboard shortcuts so you can clean your keyboard in peace. Does not work on the Windows key as Chrome does not like it when developers have access to important system keys... hopefully that isn't a deal breaker!
